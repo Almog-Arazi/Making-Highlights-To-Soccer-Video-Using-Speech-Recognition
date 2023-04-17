@@ -1,7 +1,7 @@
 # Making Highlights To Soccer Video Using Speech Recognition
 Video Summarizer is a Python script that processes a video file, extracting the audio and identifying important moments in the video based on loudness and specific keywords like "goal". It then creates a new video file containing these important moments with an intro clip and background music.
 
-This script was developed during the course "**From Idea to App using AI Tools,"** leveraging the ChatGPT AI language model. It uses** Google Speech Recognition** to identify the presence of specified keywords in the video's audio.
+This script was developed during the course "**From Idea to App using AI Tools,"** leveraging the ChatGPT AI language model. It uses **Google Speech Recognition** to identify the presence of specified keywords in the video's audio.
 
 ## Script Breakdown
 Import necessary libraries and modules.
@@ -43,4 +43,4 @@ Call the main() function when the script is run.
 
 ## Preview
 
-<<img src="https://s11.gifyu.com/images/ezgif.com-video-to-gif0436a06bc1302b19.gif" alt="ezgif.com-video-to-gif0436a06bc1302b19.gif" border="0" /></a>" width="800" height="450" /> 
+<a href="https://gifyu.com/image/SdVF7"><img src="https://s11.gifyu.com/images/ezgif.com-video-to-gif0436a06bc1302b19.gif" alt="ezgif.com-video-to-gif0436a06bc1302b19.gif" border="0" /></a>
