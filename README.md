@@ -9,11 +9,11 @@ Set keywords to look for in audio.
 
 ####  Define several functions:
 **merge_moments():** Merge loud and keyword moments into important moments.
-**extract_audio(): **Extract audio from the video file.
+**extract_audio():**Extract audio from the video file.
 **find_loud_moments():** Find peaks in the audio file's loudness.
 **find_keyword_moments():** Find moments in the video with specific keywords.
 **create_video():** Create a new video file from important moments and intro video.
-**add_music(): **Add background music to the video.
+**add_music()**Add background music to the video.
 **play_audio():** Play the audio using pygame.mixer.
 **play_video():** Play the video with audio using pygame.
 
