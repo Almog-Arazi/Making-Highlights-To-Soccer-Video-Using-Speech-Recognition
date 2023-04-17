@@ -43,6 +43,4 @@ Call the main() function when the script is run.
 
 ## Preview
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-6701cbac93.gif" width="800" height="450" />
-
-https://im4.ezgif.com/tmp/ezgif-4-6701cbac93.gif
+<<img src="https://s11.gifyu.com/images/ezgif.com-video-to-gif0436a06bc1302b19.gif" alt="ezgif.com-video-to-gif0436a06bc1302b19.gif" border="0" /></a>" width="800" height="450" /> 
