@@ -43,4 +43,4 @@ Call the main() function when the script is run.
 
 ## Preview
 
-<a href="https://gifyu.com/image/SdVF7"><img src="https://s11.gifyu.com/images/ezgif.com-video-to-gif0436a06bc1302b19.gif" alt="ezgif.com-video-to-gif0436a06bc1302b19.gif" border="0" /></a>
+<img src="https://s11.gifyu.com/images/ezgif.com-video-to-gif0436a06bc1302b19.gif" alt="ezgif.com-video-to-gif0436a06bc1302b19.gif" border="0" />
