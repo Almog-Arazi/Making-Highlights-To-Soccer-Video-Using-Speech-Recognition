@@ -48,6 +48,9 @@ https://s11.gifyu.com/images/ezgif.com-video-to-gif0436a06bc1302b19.gif
 
 https://youtu.be/NHXYywwBJzs
 
+[<img src="https://i9.ytimg.com/vi/NHXYywwBJzs/mqdefault.jpg?sqp=CJiS_6IG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFcgXChlMA8=&rs=AOn4CLBLUGxj3zbuww3pGS9ponES5x5esQ" width="50%">](https://youtu.be/NHXYywwBJzs "Preview")
 
 
-
+[![Preview]
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] 
+([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://youtu.be/NHXYywwBJzs) "Preview")   
