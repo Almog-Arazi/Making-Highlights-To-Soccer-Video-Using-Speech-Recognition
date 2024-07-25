@@ -44,11 +44,8 @@ Call the main() function when the script is run.
 ## Preview
 
 
-https://s11.gifyu.com/images/ezgif.com-video-to-gif0436a06bc1302b19.gif
 
-https://youtu.be/NHXYywwBJzs
-
-[<img src="https://i9.ytimg.com/vi/NHXYywwBJzs/mqdefault.jpg?sqp=CJiS_6IG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFcgXChlMA8=&rs=AOn4CLBLUGxj3zbuww3pGS9ponES5x5esQ" width="50%">](https://youtu.be/NHXYywwBJzs "Preview")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NHXYywwBJzs?si=3q6QkrpiHGaiA0IQ" title="Video Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
