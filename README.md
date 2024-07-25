@@ -43,9 +43,11 @@ Call the main() function when the script is run.
 
 ## Preview
 
+<a href="https://www.youtube.com/embed/NHXYywwBJzs?si=3q6QkrpiHGaiA0IQ">
+  <img src="https://img.youtube.com/vi/NHXYywwBJzs/maxresdefault.jpg" alt="Watch the Video" width="600" height="400">
+</a>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NHXYywwBJzs?si=3q6QkrpiHGaiA0IQ" title="Video Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### [Watch the Video Here](https://www.youtube.com/embed/NHXYywwBJzs?si=3q6QkrpiHGaiA0IQ)
 
 
 
